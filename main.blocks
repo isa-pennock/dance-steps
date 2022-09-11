@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="]qis=@mh4w0Dgl`yR)vE" x="5" y="40"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_repeat_ext" id="{*Ep)4*qQ=C)%Wrf5edt"><value name="TIMES"><shadow type="math_whole_number" id="6abgAF!$~Hg5v4kPw$Pg"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="g;`Llu=iW,V)m`[:NgnK"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="Fx`2H3Ps7^~=e-8OZ|5b"><value name="pause"><shadow type="timePicker" id=")#(!9vBc.=Xqw9{=U1~?"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="@X@(f1N)D7PEXx=r$]#]"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="!ckbm,hP5c:(ovOzdpVf"><value name="pause"><shadow type="timePicker" id="j-[=fzRtZdjnR?EV+a1t"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="4.(imZj,+uIUvU-Xuyxf"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="AF[YW8`/bRMUsN}Dv^8]"><value name="pause"><shadow type="timePicker" id="4TJPwf_`dh8Va[OHTg$+"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="zDvy0Q06FpwJR~h6~yQ4"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_pause" id="r/#bg}HfUe5WQZ,*~+M3"><value name="pause"><shadow type="timePicker" id="!uf_gcx;Rodn6E**e.J|"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
